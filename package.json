@@ -44,9 +44,6 @@
       "last 1 safari version"
     ]
   },
-  
-  "proxy": "https://booknow-com.onrender.com"
+  "proxy": "http://localhost:8800/api"
   
 }
-
-
