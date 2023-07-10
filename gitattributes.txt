@@ -1,3 +1,4 @@
+*.sol linguist-detectable=true
 *.html linguist-detectable=false
-*.ts linguist-detectable=true
-*.re linguist-detectable=true
+*.css linguist-detectable=false
+*.js linguist-detectable=false
