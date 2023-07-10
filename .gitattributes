@@ -1,2 +1,3 @@
-* text eol=lf
-/.yarn/** linguist-vendored
+*.html linguist-detectable=false
+*.js linguist-detectable=true
+*.re linguist-detectable=true
