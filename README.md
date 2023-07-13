@@ -1,6 +1,6 @@
-# :tv: Airbxb
+# :tv: BookNow.com
 
-Airbxb is a property & houses rental App.
+BookNow is a property & houses rental App.
 
 ✅ Users can search house using the search bar.  
 ✅ Users can explore different house by filter them by filterModal.  
@@ -9,9 +9,9 @@ Airbxb is a property & houses rental App.
 ✅ The app is fully responsive and it adapts to any screen size.  
 ✅ The app was developed while considering the Web Content Accessibility Guidelines (WCAG).  
 <br/>
-:link: Link to the live project: [Link](https://air-bxb.onrender.com/)  
+:link: Link to the live project: [Link](https://booknow1-com.onrender.com/)  
 <br/>
-<img src='airbxb.PNG'/>
+<img src='booknow.PNG'/>
 <br/>
 
 ## My Process:
