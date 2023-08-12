@@ -8,7 +8,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 const ReserveModal = ({ setOpen, hotelId }) => {
-    const { data, loading, error } = useFetch(`/hotels/rooms/${hotelId}`);
+    const { data, loading, error } = useFetch(`https://booknow-com.onrender.com/api/hotels/rooms/${hotelId}`);
     const [selectedRooms, setSelectedRooms] = useState([]);
     const { dates } = useContext(SearchContext);
 
