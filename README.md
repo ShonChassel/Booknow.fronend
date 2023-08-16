@@ -22,19 +22,10 @@ I developed the project over the course of approximately A week and a half. In o
 
 After designing a prototype of the application using Adobe XD, I started developing the app using the following technologies:
 
-- React.js. 
-- javascript.
-- Node.js.
-- JWT, Cookies, Context API.
-
-* [![Javascript][Javascript.js]][Javascript-url]
 * [![React][React.js]][React-url]
-* [![Next][Next.js]][Next-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Javascript][Javascript.js]][Javascript-url]
 * [![Node][Node.js]][Node-url]
-
-
+- JWT, Cookies, Context API.
 - SCSS modules (CSS grid & CSS Flexbox & Media queries)
 - Font Awesome (Icons)
 
