@@ -27,7 +27,7 @@ After designing a prototype of the application using Adobe XD, I started develop
 - Node.js.
 - JWT, Cookies, Context API.
 
-- * [![React][React.js]][React-url]
+* [![React][React.js]][React-url]
 * [![Next][Next.js]][Next-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
