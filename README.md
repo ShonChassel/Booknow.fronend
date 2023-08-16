@@ -25,6 +25,7 @@ After designing a prototype of the application using Adobe XD, I started develop
 * [![React][React.js]][React-url]
 * [![Javascript][Javascript.js]][Javascript-url]
 * [![Node][Node.js]][Node-url]
+* [![mongodb][mongodb.js]][mongodb-url]
 - JWT, Cookies, Context API.
 - SCSS modules (CSS grid & CSS Flexbox & Media queries)
 - Font Awesome (Icons)
@@ -46,3 +47,5 @@ After designing a prototype of the application using Adobe XD, I started develop
 [Javascript-url]: https://www.javascript.com/
 [Node.js]: https://img.shields.io/badge/node.js-2bc400?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en
+[mongodb.js]: https://img.shields.io/badge/mongodb-00080b?style=for-the-badge&logo=mongodb&logoColor=2bc400
+[mongodb-url]: https://www.mongodb.com/
