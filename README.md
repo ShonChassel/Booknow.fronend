@@ -22,12 +22,12 @@ I developed the project over the course of approximately A week and a half. In o
 
 After designing a prototype of the application using Adobe XD, I started developing the app using the following technologies:
 
-- React.js. * [![React][React.js]][React-url]
+- React.js. 
 - javascript.
 - Node.js.
 - JWT, Cookies, Context API.
 
-- 
+- * [![React][React.js]][React-url]
 * [![Next][Next.js]][Next-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -58,7 +58,8 @@ After designing a prototype of the application using Adobe XD, I started develop
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
