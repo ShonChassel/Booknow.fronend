@@ -27,6 +27,7 @@ After designing a prototype of the application using Adobe XD, I started develop
 - Node.js.
 - JWT, Cookies, Context API.
 
+* [![Javascript][Javascript.js]][Javascript-url]
 * [![React][React.js]][React-url]
 * [![Next][Next.js]][Next-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -72,3 +73,5 @@ After designing a prototype of the application using Adobe XD, I started develop
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Javascript.js]: https://img.shields.io/badge/Javascript-ffd02b?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript-url]: https://www.javascript.com/
